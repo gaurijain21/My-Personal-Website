@@ -1,7 +1,10 @@
 # Gauri Jain — Personal Portfolio Website
 
-🌐 Live Site: 🔗 gauri-portfolio-wheat.vercel.app/
-LinkedIn: 🔗 https://www.linkedin.com/in/gaurijain21/
+## Live Website: 
+🔗 gauri-portfolio-wheat.vercel.app/
+
+## LinkedIn: 
+🔗 https://www.linkedin.com/in/gaurijain21/
 
 ## ✨ Features
 
